@@ -6,7 +6,6 @@ function shareOpen() {
 
     element.classList.toggle("share");
     element4.classList.toggle("share_mobile");
-    
     element2.classList.toggle("rond_share_open");
     element3.classList.toggle("color_path");
 }
